@@ -22,10 +22,10 @@ let students = [
     {
         id: 203,
         rollNumber: "2500320101095",
-        name: "Shvansh Bhatnagar",
+        name: "Shivansh ",
         branch: "CSE",
         semester: 3,
-        email: "shvansh@xyz.com"
+        email: "shivansh@xyz.com"
     }
 ];
 let nextId = 204;
